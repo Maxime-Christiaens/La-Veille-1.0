@@ -1,3 +1,8 @@
 # Sublime text 3.0
 
-1) Kesako ? 
+### Kesako ? 
+Un éditeur de texte supportant de base de nombreux langages de programmation 
+
+
+
+
