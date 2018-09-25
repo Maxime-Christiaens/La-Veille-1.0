@@ -22,8 +22,6 @@ pour le [tester](https://www.sublimetext.com/3).
 Il permet d'installer facilement des plugins au sein de sublime text 3.0.
 [Try it!](https://packagecontrol.io/installation)
 
-## User Interface and Color
-
 ### BracketHighlighter
 
 Permet de mieux repérer les différents crochets et parenthèses.
