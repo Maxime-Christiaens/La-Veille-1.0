@@ -30,12 +30,6 @@ Permet de mieux repérer les différents crochets et parenthèses.
 
 ![BracketHighLighter](https://packagecontrol.io/readmes/img/b43439686c02b6776c788b989a0813b72367fe55.png)
 
-### A File Icon
-
-Rajoute des icones 
-
-![A File Icon](https://cdn.shopify.com/s/files/1/0533/2089/files/sublime-text-plugins-a-file-icon.png?v=1522175990)
-
 ### Color Highlight
 
 Si une couleur est utilisé dans le code, l'affiche dans le code.
@@ -47,6 +41,12 @@ Si une couleur est utilisé dans le code, l'affiche dans le code.
 Permet de séléctionner des couleurs et de générer des codes couleurs.
 
 ![Colorpicker](https://cdn.scotch.io/scotchy-uploads/2013/12/sublime-colorpicker.png)
+
+### A File Icon
+
+Rajoute des icones 
+
+![A File Icon](https://cdn.shopify.com/s/files/1/0533/2089/files/sublime-text-plugins-a-file-icon.png?v=1522175990)
 
 ### SideBar Enhancements
 
@@ -65,5 +65,4 @@ Avec ce plugin, vous pouvez vérifier le support du navigateur pour les proprié
 Donne la possibilité d'enlever les espaces inutiles présents dans le code
 
 ![Trimmer](https://assets.hongkiat.com/uploads/sublime-text-plugins/trimmer.jpg)
-
 
