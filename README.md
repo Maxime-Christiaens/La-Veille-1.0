@@ -60,6 +60,10 @@ Avec ce plugin, vous pouvez vérifier le support du navigateur pour les proprié
 
 ![CanIUse](https://assets.hongkiat.com/uploads/sublime-text-plugins/caniuse.jpg)
 
+### Trimmer 
 
+Donne la possibilité d'enlever les espaces inutiles présents dans le code
+
+![Trimmer](https://assets.hongkiat.com/uploads/sublime-text-plugins/trimmer.jpg)
 
 
