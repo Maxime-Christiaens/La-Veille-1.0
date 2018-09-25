@@ -26,23 +26,40 @@ Il permet d'installer facilement des plugins au sein de sublime text 3.0.
 
 ### BracketHighlighter
 
-Permet de mieux repérer les différentes parenthèses/crochets.
+Permet de mieux repérer les différents crochets et parenthèses.
 
 ![BracketHighLighter](https://packagecontrol.io/readmes/img/b43439686c02b6776c788b989a0813b72367fe55.png)
 
 ### A File Icon
 
+Rajoute des icones 
+
 ![A File Icon](https://cdn.shopify.com/s/files/1/0533/2089/files/sublime-text-plugins-a-file-icon.png?v=1522175990)
 
-### Gutter Color 
+### Color Highlight
 
-Si une couleur est utilisé dans le code, l'affiche en début de ligne 
+Si une couleur est utilisé dans le code, l'affiche dans le code.
 
-![Gutter Color](https://cdn.shopify.com/s/files/1/0533/2089/files/sublime-text-plugins-gutter-color.png?v=1522175872)
+![Color Highlight](https://packagecontrol.io/readmes/img/69aa4c77d00ccb820f0bd59afea788cc6d5526b4.png)
 
-### ColorHelper
+### Colorpicker
 
-Affiche la couleur dans le code et permet de générer des couleurs
+Permet de séléctionner des couleurs et de générer des codes couleurs.
 
-![ColorHelper](https://packagecontrol.io/readmes/img/4bdd0f8e6618b6db76180f592226d1af7861edd7.png)
+![Colorpicker](https://cdn.scotch.io/scotchy-uploads/2013/12/sublime-colorpicker.png)
+
+### SideBar Enhancements
+
+Rajoute énormément d'option dans la bar latéral.
+
+![SideBar Enhancements](http://hoyheaprendido.es/wp-content/uploads/2014/11/sidebar.jpg)
+
+### CanIUse
+
+Avec ce plugin, vous pouvez vérifier le support du navigateur pour les propriétés CSS et les éléments HTML que vous utilisez.
+
+![CanIUse](https://assets.hongkiat.com/uploads/sublime-text-plugins/caniuse.jpg)
+
+
+
 
